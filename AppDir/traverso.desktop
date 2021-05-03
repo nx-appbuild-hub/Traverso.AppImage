@@ -1,0 +1,15 @@
+[Desktop Entry]
+GenericName=Multitrack Recorder
+GenericName[de]=Multitrack Recorder
+GenericName[fr]=Enregistreur multipistes
+Comment=Multitrack Recorder
+Comment[de]=Multitrack Recorder
+Comment[fr]=Enregistreur multipistes
+Keywords=audio;sound;jackd;DAW;
+Exec=AppRun %U
+Icon=traverso
+Path=
+Type=Application
+Terminal=false
+Name=Traverso
+Categories=Qt;AudioVideo;Audio;Recorder;
